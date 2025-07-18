@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Masood Mohamed
+![](https://komarev.com/ghpvc/?username=codebymasood)
 
 ### Full Stack Developer | Open Source Contributor | Tech Enthusiast
 
@@ -14,4 +15,3 @@ Co-Founder at [Amazee](https://amazee.studio) | Full-Stack Developer | WordPress
 ---
 
 
-![](https://komarev.com/ghpvc/?username=codebymasood)
