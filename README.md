@@ -13,12 +13,5 @@ Co-Founder at [Amazee](https://amazee.studio) | Full-Stack Developer | WordPress
 
 ---
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebymasood&show_icons=true&theme=default)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebymasood&layout=compact)
-
-
-![Visitor Count](https://profile-counter.glitch.me/codebymasood/count.svg)
-
-
+![Visitor Count]![](https://komarev.com/ghpvc/?username=codebymasood)
