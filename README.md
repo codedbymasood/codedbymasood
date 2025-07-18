@@ -14,4 +14,4 @@ Co-Founder at [Amazee](https://amazee.studio) | Full-Stack Developer | WordPress
 ---
 
 
-![Visitor Count]![](https://komarev.com/ghpvc/?username=codebymasood)
+![](https://komarev.com/ghpvc/?username=codebymasood)
