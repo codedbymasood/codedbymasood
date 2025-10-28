@@ -3,7 +3,7 @@
 
 ### Full Stack Developer | Open Source Contributor | Tech Enthusiast
 
-Co-Founder at [Amazee](https://amazee.studio) | Full-Stack Developer | WordPress, Shopify & Vue.js Expert
+Founder at [Store Boost Kit](https://storeboostkit.com) | Full-Stack Developer | WordPress, Shopify & Vue.js Expert
 
 ---
 
