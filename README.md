@@ -3,8 +3,8 @@
 
 ### WordPress & WooCommerce Developer · Designer · Indie Builder
 
-13+ years building on WordPress. I design and develop my own products,
-land freelance clients, and document the whole journey.
+14+ years building on WordPress. I design and develop my own products
+and land freelance clients.
 
 **Stack:** PHP · JavaScript · Vue 3 · Nuxt.js · Alpine.js
 
