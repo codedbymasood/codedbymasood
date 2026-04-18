@@ -8,7 +8,7 @@ land freelance clients, and document the whole journey.
 
 **Stack:** PHP · JavaScript · Vue 3 · Nuxt.js · Alpine.js
 
-Founder at [StoreboostKit](https://storeboostkit.com) · Available for freelance at [masoodhq.com](https://masoodhq.com)
+Founder at [Store Boost Kit](https://storeboostkit.com) · Available for freelance at [masoodhq.com](https://masoodhq.com)
 
 ---
 
