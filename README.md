@@ -17,4 +17,4 @@ Founder at [StoreboostKit](https://storeboostkit.com) · Available for freelance
 - LinkedIn: [linkedin.com/in/masoodmohamed](https://linkedin.com/in/masoodmohamed)
 - Twitter/X: [@masoodmohamed90](https://x.com/masoodmohamed90)
 - YouTube: [youtube.com/@masood-hq](https://youtube.com/@masood-hq)
-- Email: hello@masoodhq.com
+- Email: hey@masoodhq.com
