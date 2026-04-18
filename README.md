@@ -1,17 +1,18 @@
-# 👋 Hi there, I'm Masood Mohamed
+# 👋 Hi, I'm Masood
 ![](https://komarev.com/ghpvc/?username=codebymasood)
 
-### Full Stack Developer | Open Source Contributor | Tech Enthusiast
+### WordPress & WooCommerce Developer · Designer · Indie Builder
 
-Founder at [Store Boost Kit](https://storeboostkit.com) | Full-Stack Developer | WordPress, Shopify & Vue.js Expert
+13+ years building on WordPress. I design and develop my own products,
+land freelance clients, and document the whole journey.
+
+Founder at [StoreboostKit](https://storeboostkit.com) · Available for freelance at [masoodhq.com](https://masoodhq.com)
 
 ---
 
 ## Let's Connect
+- Website: [masoodhq.com](https://masoodhq.com)
 - LinkedIn: [linkedin.com/in/masoodmohamed](https://linkedin.com/in/masoodmohamed)
 - Twitter/X: [@masoodmohamed90](https://x.com/masoodmohamed90)
-- Email: iam.masoodmohd@gmail.com
-
----
-
-
+- YouTube: [youtube.com/@masood-hq](https://youtube.com/@masood-hq)
+- Email: hello@masoodhq.com
