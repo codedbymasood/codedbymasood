@@ -6,7 +6,7 @@
 14+ years building on WordPress. I design and develop my own products
 and land freelance clients.
 
-**Stack:** PHP · JavaScript · Vue 3 · Nuxt.js · Alpine.js
+**Stack:** PHP · JavaScript · Vue 3 · Nuxt.js · Typescript
 
 Founder at [Store Boost Kit](https://storeboostkit.com) · Available for freelance at [masoodhq.com](https://masoodhq.com)
 
